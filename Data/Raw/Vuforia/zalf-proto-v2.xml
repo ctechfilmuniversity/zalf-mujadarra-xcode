@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marker-7-title-24bit" size="0.140000 0.040872" />
+    <ImageTarget name="marker-2-rice-24bit" size="0.025000 0.025000" />
+    <ImageTarget name="marker-6-finish-24bit" size="0.050000 0.072905" />
+    <ImageTarget name="marker-5-cook-24bit" size="0.080000 0.080000" />
+    <ImageTarget name="marker-4-onionfry-24bit" size="0.060000 0.064329" />
+    <ImageTarget name="marker-3-onion-24bit" size="0.045000 0.040053" />
+    <ImageTarget name="marker-1-lentil-24bit" size="0.045000 0.045000" />
+  </Tracking>
+</QCARConfig>
